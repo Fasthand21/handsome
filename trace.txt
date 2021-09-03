@@ -1,0 +1,49 @@
+[000:067] [2021-06-13 07:32:16 +0000.504502][5476] Log to file:/storage/emulated/0/voip-data/com.miui.gallery/trace.txt start time:2021-06-13 07:32:16 +0000
+[000:068] [2021-06-13 07:32:16 +0000.504747][5476] dump file m_prefix:-12-16-326ec89
+
+[000:071] [2021-06-13 07:32:16 +0000.508206][5476] dump filename:trace.txt dump time:1623569536
+
+[000:073] [2021-06-13 07:32:16 +0000.509975][5476] set AppID=50012 old AppID=-1
+[000:073] [2021-06-13 07:32:16 +0000.510089][5476] Init the android object with jvm:0x7d4cd4b1c0 env:0x7d4cdb6900 context:0x7fc8cae818
+
+[000:073] [2021-06-13 07:32:16 +0000.510187][5476] SetAndroidMediaCodecObjects time:163685669  enter.
+
+[000:073] [2021-06-13 07:32:16 +0000.510262][5476] SetAndroidMediaCodecObjects  leave. expire time = 0 ms
+
+[000:073] [2021-06-13 07:32:16 +0000.510323][5476] SetAndroidMediaCodecObjects time:163685669  enter.
+
+[000:073] [2021-06-13 07:32:16 +0000.510384][5476] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects:: jvm :0x7d4cd4b1c0
+[000:073] [2021-06-13 07:32:16 +0000.510442][5476] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects success g_jvm_:0x7d4cd4b1c0 address:0x7c24f4f290
+[000:073] [2021-06-13 07:32:16 +0000.510501][5476] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects success g_jvm_encoder_:0x7d4cd4b1c0 address:0x7c24f4f290
+[000:073] [2021-06-13 07:32:16 +0000.510562][5476] SetAndroidMediaCodecObjects  leave. expire time = 1 ms
+
+[000:074] [2021-06-13 07:32:16 +0000.511268][5476] Set the android objects with jvm:0x7d4cd4b1c0 env:0x7d4cdb6900 context:0x7fc8cae818
+
+[000:076] [2021-06-13 07:32:16 +0000.512627][5476] audio jni debug :manager SetAndroidAudioDeviceObjects  env:0x7d4cdb6900
+[000:076] [2021-06-13 07:32:16 +0000.512719][5476]  SystemUtil Init done
+[000:083] [2021-06-13 07:32:16 +0000.520036][5476] Java_com_xiaomi_skyprocess_WrapSegmentEngine_ConstructWrapSegmentEngineJni: 
+[000:084] [2021-06-13 07:32:16 +0000.521434][5476] getInstanceWrapSegment time:163685680  enter.
+
+[000:086] [2021-06-13 07:32:16 +0000.522966][5476] getInstanceWrapSegment  leave. expire time = 2 ms
+
+[000:088] [2021-06-13 07:32:16 +0000.525338][5476] Java_com_xiaomi_skyprocess_WrapSegmentEngine_setGLSurfaceAvalibaleJni: setGLSurfaceAvalibaleJni end jni: 1
+[000:153] [2021-06-13 07:32:16 +0000.590012][5593] Java_com_xiaomi_skyprocess_OpenGlRender_SetOpengGlRenderParamsJni: 
+[000:153] [2021-06-13 07:32:16 +0000.590157][5593] Java_com_xiaomi_skyprocess_OpenGlRender_SetOpengGlRenderParamsJni:  program id: 3, textureUniform RGB: 0, ATTRIB_VERTEX: 0, ATTRIB_TEXTURE: 1, vertex_vertices len: 32, texture_vertices len: 32
+[000:155] [2021-06-13 07:32:16 +0000.592205][5593] Java_com_xiaomi_skyprocess_OpenGlRender_SetCurrentGLContextForGraphJni: 
+[000:155] [2021-06-13 07:32:16 +0000.592309][5593] Java_com_xiaomi_skyprocess_OpenGlRender_SetCurrentGLContextForGraphJni: g_eglcontext: 0x7c04260f00
+[000:157] [2021-06-13 07:32:16 +0000.593744][5593] SetWindowSizeJni, posX: 0, posY: 0, width: 1080, height: 1398
+[000:158] [2021-06-13 07:32:16 +0000.594790][5593] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:163685754  enter.
+
+[000:158] [2021-06-13 07:32:16 +0000.594857][5593] (1/29)OpenGlRender_RenderFrameJni, sourcetype: 0, output_texture: 0, pkt_pts: -9223372036854775808width:0height:0
+[000:163] [2021-06-13 07:32:16 +0000.600353][5593] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 5 ms
+
+[000:166] [2021-06-13 07:32:16 +0000.603448][5593] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:163685762  enter.
+
+[000:173] [2021-06-13 07:32:16 +0000.610029][5593] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 7 ms
+
+[000:193] [2021-06-13 07:32:16 +0000.630586][5593] SetWindowSizeJni, posX: 0, posY: 0, width: 1048, height: 1398
+[000:194] [2021-06-13 07:32:16 +0000.630796][5593] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:163685790  enter.
+
+[000:201] [2021-06-13 07:32:16 +0000.638047][5593] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 7 ms
+
+[000:204] [2021-06-13 07:32:16 +
